@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "John Smith - QA Lead"
+    email: "johnsmith@gmail.com"
+  onCallSupport:
+    - (666) 666-1234
